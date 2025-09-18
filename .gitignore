@@ -1,0 +1,6 @@
+# Cached data
+__pycache__/
+.vscode/
+
+# Data files
+# data/

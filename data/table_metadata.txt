@@ -1,0 +1,46 @@
+,Rk:Rk | Rank
+,Gcar:Gcar | <strong>Career Game Number for Player</strong><br>Click to see career stats through the<br>end of this game for this player.
+,Gtm:Gtm | <strong>Season Game Number for Team</strong><br>Click to see season stats through the<br>end of this game for this player.
+,Week:Week | Week number in season
+,Date:Date | 
+,Team:Team | 
+,: | 
+,Opp:Opp | 
+,Result:Result | 
+,GS:GS | Games started as an offensive or defensive player
+Receiving,Tgt:Tgt | Pass Targets (since 1978, derived from NFL play-by-play data)
+Receiving,Rec:Rec | Receptions
+Receiving,Yds:Yds | Receiving Yards
+Receiving,Y/R:Y/R | Receiving Yards per Reception<br>Minimum 1.875 catches per game scheduled to qualify as leader.<br />Minimum 200 receptions to qualify as career leader.
+Receiving,TD:TD | Receiving Touchdowns
+Receiving,Ctch%:Ctch% | Catch%, receptions divided by targets (since 1978)
+Receiving,Y/Tgt:Y/Tgt | Receiving Yards per Target (target numbers since 1978)
+Passing,Cmp:Cmp | Passes completed
+Passing,Att:Att | Passes attempted
+Passing,Cmp%:Cmp% | Percentage of Passes Completed<br>Minimum 14 attempts per scheduled game to qualify as leader.<br />Minimum 1500 pass attempts to qualify as career leader.
+Passing,Yds:paYds | Yards lost due to sacks (first recorded in 1969, player per game since 1981)
+Passing,TD:paTD | Passing Touchdowns
+Passing,Int:Int | Interceptions thrown
+Passing,Y/A:Y/A | Yards gained per pass attempt <br>Minimum 14 attempts per scheduled game to qualify as leader.<br>Minimum 1500 pass attempts to qualify as career leader.
+Passing,AY/A:AY/A | Adjusted Yards gained per pass attempt<br />(Passing Yards + 20 * Passing TD - 45 * Interceptions) / (Passes Attempted)<br />Minimum 14 attempts per scheduled game to qualify as leader.<br />Minimum 1500 pass attempts to qualify as career leader.
+Passing,Rate:Rate | Passer Rating, <a href='https://www.pro-football-reference.com/about/glossary.htm'>see glossary</a> for details<br>Different ratings are used by the NFL and NCAA.<br />Minimum 1500 pass attempts to qualify as career leader, minimum 150 pass attempts for playoffs leader.
+Passing,Sk:Sk | Times sacked (first recorded in 1969, player per game since 1981)
+,Sk:Sk | Sacks (official since 1982,<br />based on play-by-play, game film<br />and other research since 1960)
+Tackles,Comb:Comb | Tackles<br>Combined solo + assisted tackles<br />Prior to 1994, all tackles are put into 'combined', though<br />they are unofficial and inconsistently recorded from team to team. For amusement only.
+Tackles,Solo:Solo | Tackles<br>Before 1994: unofficial and inconsistently recorded from team to team. For amusement only.<br>1994-now: unofficial but consistently recorded.<br>
+Tackles,Ast:Ast | Assists on tackles<br>Before 1994: combined with solo tackles<br>1994-now: unofficial, but consistently recorded<br>
+Tackles,TFL:TFL | Tackles For Loss, recorded for 95% of games from 1999-2007 and 100% since 2008
+Tackles,QBHits:QBHits | Quarterback hits, recorded since 2006
+,Sfty:Sfty | Safeties scored by player/team
+Fumbles,Fmb:Fmb | Number of times fumbled both lost and recovered by own team<br />These represent ALL fumbles by the player on offense, defense, and special teams.<br />Available for player games since 1989.
+Fumbles,FL:FL | Fumbles Lost by Player (since 1994) or Team
+Fumbles,FF:FF | Number of times forced a fumble by the opposition recovered by either team
+Fumbles,FR:FR | Fumbles recovered by a Player or Team<br>Original fumble by either team
+Fumbles,Yds:fuYds | Yards recovered fumbles were returned
+Fumbles,FRTD:FRTD | Fumbles recovered resulting in a touchdown for the recoverer
+Snap Counts,OffSnp:OffSnp | Offensive Snaps
+Snap Counts,Off%:Off% | Percentage of available offensive snaps taken for games in which this player appeared.
+Snap Counts,DefSnp:DefSnp | Defensive Snaps
+Snap Counts,Def%:Def% | Percentage of available defensive snaps taken for games in which this player appeared.
+Snap Counts,STSnp:STSnp | ST Snaps
+Snap Counts,ST%:ST% | Percentage of available special teams snaps taken for games in which this player appeared.
